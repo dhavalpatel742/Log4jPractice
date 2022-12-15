@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-15T16:10:42 EST" name="Default suite" finished-at="2022-12-15T16:10:50 EST" duration-ms="8495">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T16:10:42 EST" name="Default test" finished-at="2022-12-15T16:10:50 EST" duration-ms="8495">
+      <class name="com.log4j.test.LoginPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.log4j.test.LoginPageTest@d9345cd]" started-at="2022-12-15T16:10:42 EST" name="setup" finished-at="2022-12-15T16:10:45 EST" duration-ms="3191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FBTitleTest()[pri:1, instance:com.log4j.test.LoginPageTest@d9345cd]" started-at="2022-12-15T16:10:45 EST" name="FBTitleTest" finished-at="2022-12-15T16:10:45 EST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBTitleTest -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.log4j.test.LoginPageTest@d9345cd]" started-at="2022-12-15T16:10:45 EST" name="shutdown" finished-at="2022-12-15T16:10:46 EST" duration-ms="1165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.log4j.test.LoginPageTest@d9345cd]" started-at="2022-12-15T16:10:46 EST" name="setup" finished-at="2022-12-15T16:10:49 EST" duration-ms="3062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="FBLogoTest()[pri:2, instance:com.log4j.test.LoginPageTest@d9345cd]" started-at="2022-12-15T16:10:49 EST" name="FBLogoTest" finished-at="2022-12-15T16:10:49 EST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBLogoTest -->
+        <test-method is-config="true" signature="shutdown()[pri:0, instance:com.log4j.test.LoginPageTest@d9345cd]" started-at="2022-12-15T16:10:49 EST" name="shutdown" finished-at="2022-12-15T16:10:50 EST" duration-ms="992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- com.log4j.test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

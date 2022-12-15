@@ -1,0 +1,20 @@
+2022-12-15 16:10:42,375  INFO [main] LoginPageTest:22 - ****************************** Starting test cases execution  *****************************************
+2022-12-15 16:10:45,563  INFO [main] LoginPageTest:32 - entering application URL
+2022-12-15 16:10:45,563  WARN [main] LoginPageTest:33 - Hey this just a warning message
+2022-12-15 16:10:45,563 FATAL [main] LoginPageTest:34 - hey this is just fatal error message
+2022-12-15 16:10:45,563 DEBUG [main] LoginPageTest:35 - this is debug message
+2022-12-15 16:10:45,568  INFO [main] LoginPageTest:40 - ****************************** starting test case *****************************************
+2022-12-15 16:10:45,568  INFO [main] LoginPageTest:41 - ****************************** FBTitleTest *****************************************
+2022-12-15 16:10:45,571  INFO [main] LoginPageTest:45 - ****************************** ending test case *****************************************
+2022-12-15 16:10:45,572  INFO [main] LoginPageTest:46 - ****************************** FBTitleTest *****************************************
+2022-12-15 16:10:46,740  INFO [main] LoginPageTest:64 - ****************************** Browser is closed *****************************************
+2022-12-15 16:10:46,742  INFO [main] LoginPageTest:22 - ****************************** Starting test cases execution  *****************************************
+2022-12-15 16:10:49,803  INFO [main] LoginPageTest:32 - entering application URL
+2022-12-15 16:10:49,804  WARN [main] LoginPageTest:33 - Hey this just a warning message
+2022-12-15 16:10:49,804 FATAL [main] LoginPageTest:34 - hey this is just fatal error message
+2022-12-15 16:10:49,804 DEBUG [main] LoginPageTest:35 - this is debug message
+2022-12-15 16:10:49,805  INFO [main] LoginPageTest:53 - ****************************** starting test case *****************************************
+2022-12-15 16:10:49,806  INFO [main] LoginPageTest:54 - ****************************** FBLogoTest *****************************************
+2022-12-15 16:10:49,858  INFO [main] LoginPageTest:57 - ****************************** ending test case *****************************************
+2022-12-15 16:10:49,858  INFO [main] LoginPageTest:58 - ****************************** FBLogoTest *****************************************
+2022-12-15 16:10:50,852  INFO [main] LoginPageTest:64 - ****************************** Browser is closed *****************************************
